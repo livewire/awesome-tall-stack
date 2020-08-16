@@ -1,4 +1,4 @@
-# Awesome TALL Stack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome TALL Stack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/blade-ui-kit/awesome-tall-stack/workflows/Lint%20Awesome%20List/badge.svg)
 
 > A curated list of awesome things related to the TALL stack.
 
