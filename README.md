@@ -32,6 +32,7 @@ The TALL stack is a full stack development solution featuring some of the librar
 - [Laravel TALL Preset](https://github.com/use-preset/laravel-tall/) - A preset for installing the TALL stack with just one command.
 - [Tailwind UI](https://tailwindui.com) - Beautiful UI components built with Tailwind CSS. Offers Alpine.js integration.
 - [TALL Forms](https://github.com/tanthammar/tall-forms) - A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, blade form input components and more.
+- [Laravel Views](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack 
 
 ## Community Websites
 
