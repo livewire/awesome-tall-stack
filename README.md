@@ -42,10 +42,10 @@ The TALL stack is a full stack development solution featuring some of the librar
 
 These apps & websites were built using the TALL stack. Open Source repos (🔓) listed on top.
 
-- 🔓 [driesvints.com](https://driesvints.com) - Built using Laravel & Tailwind CSS - [repository](https://github.com/driesvints/driesvints.com)
-- 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - Built using Laravel & Tailwind CSS. [repository](https://github.com/fullstackbelgium/fullstackbelgium.be)
-- 🔓 [fullstackeurope.com](https://fullstackeurope.com) - Built using Laravel, Alpine.js && Tailwind CSS - [repository](https://github.com/fullstackeurope/fullstackeurope.com)
-- 🔓 [novapackages.com](https://novapackages.com) - Discover new Laravel Nova packages - [repository](https://github.com/tightenco/novapackages)
+- 🔓 [driesvints.com](https://driesvints.com) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/driesvints/driesvints.com)
+- 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/fullstackbelgium/fullstackbelgium.be)
+- 🔓 [fullstackeurope.com](https://fullstackeurope.com) - Built using Laravel, Alpine.js && Tailwind CSS - [Repository](https://github.com/fullstackeurope/fullstackeurope.com)
+- 🔓 [novapackages.com](https://novapackages.com) - Discover new Laravel Nova packages - [Repository](https://github.com/tightenco/novapackages)
 
 ## Credentials
 
