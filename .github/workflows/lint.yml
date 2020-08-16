@@ -1,5 +1,3 @@
-Add Github "lint.yml" action:
-
 name: Lint Awesome List
 
 on:
