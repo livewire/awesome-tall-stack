@@ -23,7 +23,7 @@ The TALL stack is a full stack development solution featuring some of the librar
 
 ## Libraries
 
-- [Alptail](https://www.alptail.com) - A collection of open-source UI components, using Tailwind.css and Alpine.js.
+- [Alptail](https://www.alptail.com) - A collection of open-source UI components, using Tailwind CSS and Alpine.js.
 - [Blade Icons](https://github.com/blade-ui-kit/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
 - [Blade Script](https://github.com/cbl/blade-script) - A package to easily add transpiled & minified scripts to your Blade components.
 - [Blade Style](https://github.com/cbl/blade-style) - A package to easily minify styles and make use of sass, less, etc. in your Blade components.
