@@ -16,10 +16,10 @@ The TALL stack is a full stack development solution featuring some of the librar
 
 ## The TALL Stack
 
-- [Tailwind CSS](https://tailwindcss.com)
-- [Alpine.js](https://github.com/alpinejs/alpine)
-- [Laravel](https://laravel.com)
-- [Livewire](https://laravel-livewire.com)
+- [Tailwind CSS](https://tailwindcss.com) ([Awesome List](https://github.com/aniftyco/awesome-tailwindcss))
+- [Alpine.js](https://github.com/alpinejs/alpine) ([Awesome List](https://github.com/alpinejs/awesome-alpine))
+- [Laravel](https://laravel.com)  ([Awesome List](https://github.com/chiraggude/awesome-laravel)
+- [Livewire](https://laravel-livewire.com) ([Awesome List](https://github.com/imliam/awesome-livewire))
 
 ## Libraries
 
