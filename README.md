@@ -40,11 +40,18 @@ The TALL stack is a full stack development solution featuring some of the librar
 
 ## Learning
 
+Legend: ✍️ Blog Post · 🎥 Cast
+
 - 🎥 [Blade Component Cookbook](https://laracasts.com/series/blade-component-cookbook) - Learn how to build Blade components using Laravel, Tailwind CSS & Alpine.js
+- ✍️ [Building a realtime dashboard powered by Laravel, Livewire and Tailwind](https://freek.dev/1645-building-a-realtime-dashboard-powered-by-laravel-livewire-and-tailwind-2020-edition)
+- ✍️ [Building complex forms with Laravel Livewire in Oh Dear](https://freek.dev/1609-building-complex-forms-with-laravel-livewire-in-oh-dear)
+- ✍️ [Embracing The Tall Stack with Event Sourcing, an adventure into the unknown](https://www.juststeveking.uk/embracing-the-tall-stack-with-event-sourcing-an-adventure-into-the-unknown/)
 
 ## Apps & Websites
 
-These apps & websites were built using the TALL stack. Open Source repos (🔓) listed on top.
+These apps & websites were built using the TALL stack.
+
+Legend: 🔓 Open Source · 🔐 Closed Source
 
 - 🔓 [aw-studio.de](https://aw-studio.de/) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/aw-studio/aw-studio.de)
 - 🔓 [driesvints.com](https://driesvints.com) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/driesvints/driesvints.com)
