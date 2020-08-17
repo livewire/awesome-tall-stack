@@ -7,8 +7,8 @@ The TALL stack is a full stack development solution featuring some of the librar
 ## Contents
 
 - [The TALL Stack](#the-tall-stack)
-- [Libraries](#libraries)
 - [Community Websites](#community-websites)
+- [Libraries](#libraries)
 - [Learning](#learning)
 - [Apps & Websites](#apps--websites)
 - [Credentials](#credentials)
@@ -20,6 +20,10 @@ The TALL stack is a full stack development solution featuring some of the librar
 - [Alpine.js](https://github.com/alpinejs/alpine) ([Awesome List](https://github.com/alpinejs/awesome-alpine))
 - [Laravel](https://laravel.com)  ([Awesome List](https://github.com/chiraggude/awesome-laravel)
 - [Livewire](https://laravel-livewire.com) ([Awesome List](https://github.com/imliam/awesome-livewire))
+
+## Community Websites
+
+- [tallstack.dev](https://tallstack.dev) - TALL Stack overview and educational resources.
 
 ## Libraries
 
@@ -33,10 +37,6 @@ The TALL stack is a full stack development solution featuring some of the librar
 - [Laravel Views](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack. 
 - [Tailwind UI](https://tailwindui.com) - Beautiful UI components built with Tailwind CSS. Offers Alpine.js integration.
 - [TALL Forms](https://github.com/tanthammar/tall-forms) - A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, blade form input components and more.
-
-## Community Websites
-
-- [tallstack.dev](https://tallstack.dev) - TALL Stack overview and educational resources.
 
 ## Learning
 
