@@ -46,6 +46,7 @@ The TALL stack is a full stack development solution featuring some of the librar
 
 These apps & websites were built using the TALL stack. Open Source repos (🔓) listed on top.
 
+- 🔓 [aw-studio.de](https://aw-studio.de/) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/aw-studio/aw-studio.de)
 - 🔓 [driesvints.com](https://driesvints.com) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/driesvints/driesvints.com)
 - 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/fullstackbelgium/fullstackbelgium.be)
 - 🔓 [fullstackeurope.com](https://fullstackeurope.com) - Built using Laravel, Alpine.js & Tailwind CSS - [Repository](https://github.com/fullstackeurope/fullstackeurope.com)
