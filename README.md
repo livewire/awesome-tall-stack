@@ -56,11 +56,11 @@ These apps & websites were built using the TALL stack.
 
 Legend: 🔓 Open Source · 🔐 Closed Source
 
-- 🔓 [aw-studio.de](https://aw-studio.de/) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/aw-studio/aw-studio.de)
-- 🔓 [driesvints.com](https://driesvints.com) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/driesvints/driesvints.com)
-- 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - Built using Laravel & Tailwind CSS - [Repository](https://github.com/fullstackbelgium/fullstackbelgium.be)
-- 🔓 [fullstackeurope.com](https://fullstackeurope.com) - Built using Laravel, Alpine.js & Tailwind CSS - [Repository](https://github.com/fullstackeurope/fullstackeurope.com)
-- 🔓 [novapackages.com](https://novapackages.com) - Discover new Laravel Nova packages - [Repository](https://github.com/tightenco/novapackages)
+- 🔓 [aw-studio.de](https://aw-studio.de/) - [Repository](https://github.com/aw-studio/aw-studio.de) - Built using Laravel & Tailwind CSS
+- 🔓 [driesvints.com](https://driesvints.com) - [Repository](https://github.com/driesvints/driesvints.com) - Built using Laravel & Tailwind CSS
+- 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - [Repository](https://github.com/fullstackbelgium/fullstackbelgium.be) - Built using Laravel & Tailwind CSS
+- 🔓 [fullstackeurope.com](https://fullstackeurope.com) - [Repository](https://github.com/fullstackeurope/fullstackeurope.com) - Built using Laravel, Alpine.js & Tailwind CSS
+- 🔓 [novapackages.com](https://novapackages.com) - [Repository](https://github.com/tightenco/novapackages) - Discover new Laravel Nova packages
 
 ## Credentials
 
