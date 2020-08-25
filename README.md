@@ -64,3 +64,4 @@ Legend: 🔓 Open Source · 🔐 Closed Source
 - 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - [repository](https://github.com/fullstackbelgium/fullstackbelgium.be) - Built using Laravel & Tailwind CSS.
 - 🔓 [fullstackeurope.com](https://fullstackeurope.com) - [repository](https://github.com/fullstackeurope/fullstackeurope.com) - Built using Laravel, Alpine.js & Tailwind CSS.
 - 🔓 [novapackages.com](https://novapackages.com) - [repository](https://github.com/tightenco/novapackages) - Discover new Laravel Nova packages.
+- 🔐 [pingping.io](https://pingping.io?ref=awesome-tall-stack) - Website uptime && SSL monitoring.
