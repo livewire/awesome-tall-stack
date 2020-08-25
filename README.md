@@ -4,6 +4,8 @@
 
 The TALL stack is a full stack development solution featuring some of the libraries built by the Laravel community.
 
+Thanks to the original [awesome project](https://github.com/sindresorhus/awesome) and the [Awesome Tailwind CSS repository](https://github.com/aniftyco/awesome-tailwindcss) for inpiring this project.
+
 ## Contents
 
 - [The TALL Stack](#the-tall-stack)
@@ -11,8 +13,6 @@ The TALL stack is a full stack development solution featuring some of the librar
 - [Libraries](#libraries)
 - [Learning](#learning)
 - [Apps & Websites](#apps--websites)
-- [Credentials](#credentials)
-- [Maintainers](#maintainers)
 
 ## The TALL Stack
 
@@ -59,16 +59,8 @@ These apps & websites were built using the TALL stack.
 
 Legend: 🔓 Open Source · 🔐 Closed Source
 
-- 🔓 [aw-studio.de](https://aw-studio.de/) - [Repository](https://github.com/aw-studio/aw-studio.de) - Built using Laravel & Tailwind CSS
-- 🔓 [driesvints.com](https://driesvints.com) - [Repository](https://github.com/driesvints/driesvints.com) - Built using Laravel & Tailwind CSS
-- 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - [Repository](https://github.com/fullstackbelgium/fullstackbelgium.be) - Built using Laravel & Tailwind CSS
-- 🔓 [fullstackeurope.com](https://fullstackeurope.com) - [Repository](https://github.com/fullstackeurope/fullstackeurope.com) - Built using Laravel, Alpine.js & Tailwind CSS
-- 🔓 [novapackages.com](https://novapackages.com) - [Repository](https://github.com/tightenco/novapackages) - Discover new Laravel Nova packages
-
-## Credentials
-
-Thanks to the original [awesome project](https://github.com/sindresorhus/awesome) and the [Awesome Tailwind CSS repository](https://github.com/aniftyco/awesome-tailwindcss) for inpiring this project.
-
-## Maintainers
-
-Awesome TALL Stack is maintained by [Dries Vints](https://twitter.com/driesvints).
+- 🔓 [aw-studio.de](https://aw-studio.de/) - [Repository](https://github.com/aw-studio/aw-studio.de) - Built using Laravel & Tailwind CSS.
+- 🔓 [driesvints.com](https://driesvints.com) - [Repository](https://github.com/driesvints/driesvints.com) - Built using Laravel & Tailwind CSS.
+- 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - [Repository](https://github.com/fullstackbelgium/fullstackbelgium.be) - Built using Laravel & Tailwind CSS.
+- 🔓 [fullstackeurope.com](https://fullstackeurope.com) - [Repository](https://github.com/fullstackeurope/fullstackeurope.com) - Built using Laravel, Alpine.js & Tailwind CSS.
+- 🔓 [novapackages.com](https://novapackages.com) - [Repository](https://github.com/tightenco/novapackages) - Discover new Laravel Nova packages.
