@@ -18,8 +18,8 @@ Thanks to the original [awesome project](https://github.com/sindresorhus/awesome
 
 - [Tailwind CSS](https://tailwindcss.com) ([Awesome List](https://github.com/aniftyco/awesome-tailwindcss))
 - [Alpine.js](https://github.com/alpinejs/alpine) ([Awesome List](https://github.com/alpinejs/awesome-alpine))
-- [Laravel](https://laravel.com) ([Awesome List](https://github.com/chiraggude/awesome-laravel))
 - [Livewire](https://laravel-livewire.com) ([Awesome List](https://github.com/imliam/awesome-livewire))
+- [Laravel](https://laravel.com) ([Awesome List](https://github.com/chiraggude/awesome-laravel))
 
 ## Community Websites
 
