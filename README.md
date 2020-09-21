@@ -4,8 +4,6 @@
 
 The TALL stack is a full stack development solution featuring some of the libraries built by the Laravel community. It features tools that allows you to write apps with a focus on backend and without having to write too much JavaScript, thus allowing you to focus on a smaller set of programming tools.
 
-Thanks to the original [awesome project](https://github.com/sindresorhus/awesome) and the Awesome Tailwind CSS repository for inpiring this project.
-
 ## Contents
 
 - [The TALL Stack](#the-tall-stack)
