@@ -41,6 +41,7 @@ The TALL stack is a full stack development solution featuring some of the librar
 - [Tailwind UI](https://tailwindui.com) - Beautiful UI components built with Tailwind CSS. Offers Alpine.js integration.
 - [TALL Forms](https://github.com/tanthammar/tall-forms) - A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, blade form input components and more.
 - [X Blade Components](https://github.com/masterix21/x-blade-components) - Ready-to-use Blade components.
+- [Livewire Charts](https://github.com/asantibanez/livewire-charts)
 
 ## Learning
 
