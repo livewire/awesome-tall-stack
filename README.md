@@ -14,10 +14,10 @@ The [TALL stack](https://tallstack.dev/) is a full stack development solution fe
 
 ## The TALL Stack
 
-- [Tailwind CSS](https://tailwindcss.com) ([Awesome List](https://github.com/aniftyco/awesome-tailwindcss)) - A utility-first CSS framework for rapidly building custom designs.
-- [Alpine.js](https://github.com/alpinejs/alpine) ([Awesome List](https://github.com/alpinejs/awesome-alpine)) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [Livewire](https://laravel-livewire.com) ([Awesome List](https://github.com/imliam/awesome-livewire)) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [Laravel](https://laravel.com) ([Awesome List](https://github.com/chiraggude/awesome-laravel)) - A PHP web application framework with expressive, elegant syntax.
+- [Tailwind CSS](https://tailwindcss.com) - ([Awesome List](https://github.com/aniftyco/awesome-tailwindcss)) - A utility-first CSS framework for rapidly building custom designs.
+- [Alpine.js](https://github.com/alpinejs/alpine) - ([Awesome List](https://github.com/alpinejs/awesome-alpine)) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [Livewire](https://laravel-livewire.com) - ([Awesome List](https://github.com/imliam/awesome-livewire)) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [Laravel](https://laravel.com) - ([Awesome List](https://github.com/chiraggude/awesome-laravel)) - A PHP web application framework with expressive, elegant syntax.
 
 ## Community Websites
 
