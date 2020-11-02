@@ -2,7 +2,7 @@
 
 > A curated list of awesome things related to the TALL stack.
 
-The TALL stack is a full stack development solution featuring some of the libraries built by the Laravel community. It features tools that allows you to write apps with a focus on backend and without having to write too much JavaScript, thus allowing you to focus on a smaller set of programming tools.
+The [TALL stack](https://tallstack.dev/) is a full stack development solution featuring some of the libraries built by the Laravel community. It features tools that allows you to write apps with a focus on backend and without having to write too much JavaScript, thus allowing you to focus on a smaller set of programming tools.
 
 ## Contents
 
@@ -10,14 +10,14 @@ The TALL stack is a full stack development solution featuring some of the librar
 - [Community Websites](#community-websites)
 - [Libraries](#libraries)
 - [Learning](#learning)
-- [Apps & Websites](#apps--websites)
+- [Examples](#examples)
 
 ## The TALL Stack
 
-- [Tailwind CSS](https://tailwindcss.com) ([Awesome List](https://github.com/aniftyco/awesome-tailwindcss))
-- [Alpine.js](https://github.com/alpinejs/alpine) ([Awesome List](https://github.com/alpinejs/awesome-alpine))
-- [Livewire](https://laravel-livewire.com) ([Awesome List](https://github.com/imliam/awesome-livewire))
-- [Laravel](https://laravel.com) ([Awesome List](https://github.com/chiraggude/awesome-laravel))
+- [Tailwind CSS](https://tailwindcss.com) ([Awesome List](https://github.com/aniftyco/awesome-tailwindcss)) - A utility-first CSS framework for rapidly building custom designs.
+- [Alpine.js](https://github.com/alpinejs/alpine) ([Awesome List](https://github.com/alpinejs/awesome-alpine)) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [Livewire](https://laravel-livewire.com) ([Awesome List](https://github.com/imliam/awesome-livewire)) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+- [Laravel](https://laravel.com) ([Awesome List](https://github.com/chiraggude/awesome-laravel)) - A PHP web application framework with expressive, elegant syntax.
 
 ## Community Websites
 
@@ -52,7 +52,7 @@ Legend: ✍️ Blog Post · 🎥 Cast
 - ✍️ [Building complex forms with Laravel Livewire in Oh Dear](https://freek.dev/1609-building-complex-forms-with-laravel-livewire-in-oh-dear)
 - ✍️ [Embracing The Tall Stack with Event Sourcing, an adventure into the unknown](https://www.juststeveking.uk/embracing-the-tall-stack-with-event-sourcing-an-adventure-into-the-unknown/)
 
-## Apps & Websites
+## Examples
 
 These apps & websites were built using the TALL stack.
 
