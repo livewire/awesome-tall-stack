@@ -22,7 +22,6 @@ The [TALL stack](https://tallstack.dev/) is a full stack development solution fe
 ## Community Websites
 
 - [tallstack.dev](https://tallstack.dev) - TALL Stack overview and educational resources.
-- [talltips](https://talltips.novate.co.uk/) - Collection of tips and ideas across the TALL stack.
 
 ## Libraries
 
