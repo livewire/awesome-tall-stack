@@ -31,6 +31,7 @@ The [TALL stack](https://tallstack.dev/) is a full stack development solution fe
 - [Blade Style](https://github.com/cbl/blade-style) - A package to easily minify styles and make use of sass, less, etc. in your Blade components.
 - [Blade UI Kit](https://blade-ui-kit.com/) - A set of renderless components to utilise in your Laravel Blade views.
 - [Docdress](https://github.com/aw-studio/docdress) - A package to create markdown documentations from GitHub repositories in a Laravel-like design.
+- [Filament](https://filamentadmin.com) - The elegant TALL stack admin panel.
 - [Laravel Form Components](https://github.com/pascalbaljetmedia/laravel-form-components) - A set of Blade components to rapidly build forms with Tailwind CSS Custom Forms and Bootstrap 4.
 - [Laravel TALL Preset](https://github.com/laravel-frontend-presets/tall) - A front-end preset for Laravel to scaffold an application using the TALL stack.
 - [Laravel TALL Preset](https://github.com/use-preset/laravel-tall/) - A preset for installing the TALL stack with just one command.
