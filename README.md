@@ -4,14 +4,6 @@
 
 The [TALL stack](https://tallstack.dev/) is a full stack development solution featuring some of the libraries built by the Laravel community. It features tools that allows you to write apps with a focus on backend and without having to write too much JavaScript, thus allowing you to focus on a smaller set of programming tools.
 
-## Contents
-
-- [The TALL Stack](#the-tall-stack)
-- [Community Websites](#community-websites)
-- [Libraries](#libraries)
-- [Learning](#learning)
-- [Examples](#examples)
-
 ## The TALL Stack
 
 - [Tailwind CSS](https://tailwindcss.com) - ([Awesome List](https://github.com/aniftyco/awesome-tailwindcss)) - A utility-first CSS framework for rapidly building custom designs.
