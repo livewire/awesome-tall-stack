@@ -51,6 +51,7 @@ Legend: ✍️ Blog Post · 🎥 Cast
 - ✍️ [Building a realtime dashboard powered by Laravel, Livewire and Tailwind](https://freek.dev/1645-building-a-realtime-dashboard-powered-by-laravel-livewire-and-tailwind-2020-edition)
 - ✍️ [Building complex forms with Laravel Livewire in Oh Dear](https://freek.dev/1609-building-complex-forms-with-laravel-livewire-in-oh-dear)
 - ✍️ [Embracing The Tall Stack with Event Sourcing, an adventure into the unknown](https://www.juststeveking.uk/embracing-the-tall-stack-with-event-sourcing-an-adventure-into-the-unknown/)
+- ✍️ [How to Build a Job Board With the TALL Stack + Demo](https://lightit.io/blog/how-to-do-a-job-board-with-the-tall-stack/)
 
 ## Examples
 
