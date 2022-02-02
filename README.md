@@ -38,6 +38,7 @@ The [TALL stack](https://tallstack.dev/) is a full stack development solution fe
 - [Laravel TTALL Preset](https://github.com/pktharindu/ttall) - A preset for Turbolinks + TALL stack, bundled with some helpful packages and their configurations.
 - [Laravel Views](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack.
 - [Livewire Datatables](https://github.com/mediconesystems/livewire-datatables) - Package to create tables with sorting, filtering, searching, exporting etc.
+- [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid ⚡ creates modern, powerful and easy to customize Datatables.
 - [MarkdownX](https://devdojo.com/markdownx) - An advanced Markdown Editor with dropdowns, image uploads, code blocks, and more.
 - [Tailwind UI](https://tailwindui.com) - Beautiful UI components built with Tailwind CSS. Offers Alpine.js integration.
 - [TALL Forms](https://github.com/tanthammar/tall-forms) - A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, blade form input components and more.
