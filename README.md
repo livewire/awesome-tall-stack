@@ -39,12 +39,12 @@ The [TALL stack](https://tallstack.dev/) is a full stack development solution fe
 - [Laravel TTALL Preset](https://github.com/pktharindu/ttall) - A preset for Turbolinks + TALL stack, bundled with some helpful packages and their configurations.
 - [Laravel Views](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack.
 - [Livewire Datatables](https://github.com/mediconesystems/livewire-datatables) - Package to create tables with sorting, filtering, searching, exporting etc.
-- [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid ⚡ creates modern, powerful and easy to customize Datatables.
+- [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) - Livewire ⚡ PowerGrid ⚡ creates modern, powerful and easy to customize Datatables.
 - [MarkdownX](https://devdojo.com/markdownx) - An advanced Markdown Editor with dropdowns, image uploads, code blocks, and more.
 - [Tailwind UI](https://tailwindui.com) - Beautiful UI components built with Tailwind CSS. Offers Alpine.js integration.
 - [TALL Forms](https://github.com/tanthammar/tall-forms) - A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, blade form input components and more.
 - [X Blade Components](https://github.com/masterix21/x-blade-components) - Ready-to-use Blade components.
-- [WireUI](https://github.com/wireui/wireui) - A simple, fast and elegant way to add blade components made with alpine.js and tailwind, ready to use, enjoy the ease. Livewire components and Tall Stack components
+- [WireUI](https://github.com/wireui/wireui) - A simple, fast and elegant way to add blade components made with alpine.js and tailwind, ready to use, enjoy the ease. Livewire components and Tall Stack components.
 
 ## Debugging Tools
 
