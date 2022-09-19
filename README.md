@@ -44,6 +44,7 @@ The [TALL stack](https://tallstack.dev/) is a full stack development solution fe
 - [TALL Forms](https://github.com/tanthammar/tall-forms) - A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, blade form input components and more.
 - [X Blade Components](https://github.com/masterix21/x-blade-components) - Ready-to-use Blade components.
 - [WireUI](https://github.com/wireui/wireui) - A simple, fast and elegant way to add blade components made with alpine.js and tailwind, ready to use, enjoy the ease. Livewire components and Tall Stack components
+- [Megaphone](https://github.com/mikebarlow/megaphone) - Livewire component providing "Bell Icon Notifications" for your application using the default Laravel notifications system under the hood. Complete with Admin component for en-masse notification sending.
 
 ## Learning
 
